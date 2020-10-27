@@ -6,4 +6,5 @@ The following diagrams can be used for visualization.
 - Pie chart
 - Scatter plot
 - and so on
+
 In each part of these project, we use one of the appropriate diagrams according to our needs.
